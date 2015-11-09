@@ -7,4 +7,12 @@ public class Garagiste {
 		this.nom = nom ;
 		this.adresse = adresse ;
 	}
+
+	public String getNom() {
+		return nom ;
+	}
+	
+	public String getAdresse() {
+		return adresse ;
+	}
 }
